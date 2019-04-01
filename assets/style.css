@@ -1,0 +1,21 @@
+.gif-btn {
+    margin: 10px;
+}
+
+.gif-div {
+    float: left;
+    margin: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.dl {
+    float: left;
+    margin: 1px;
+}
+
+.fav {
+    float: right;
+    margin: 1px;
+}
+
